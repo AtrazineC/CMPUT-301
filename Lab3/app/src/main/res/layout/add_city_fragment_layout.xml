@@ -21,4 +21,11 @@
         android:layout_weight="1"
         android:hint="City Province"
         android:inputType="textPersonName" />
+
+    <CalendarView
+        android:id="@+id/calendarView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" />
+
 </LinearLayout>

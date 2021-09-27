@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">bkong-MedBook</string>
+    <string name="add_button_text">Add</string>
+    <string name="add_header_text">New Medicine</string>
+    <string name="edit_header_text">Edit Medicine</string>
+    <string name="option_name">Name: </string>
+    <string name="hint_name">Medicine Name</string>
+    <string name="option_frequency">Frequency: </string>
+    <string name="hint_frequency">Dose Frequency</string>
+    <string name="option_dose">Dose: </string>
+    <string name="hint_dose">Dose Amount</string>
+    <string name="option_start_date">Start Date:</string>
+    <string name="unit_milligram">mg</string>
+    <string name="unit_microgram">mcg</string>
+    <string name="unit_drop">drop</string>
+</resources>
