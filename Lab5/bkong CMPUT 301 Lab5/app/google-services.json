@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "641103120225",
+    "project_id": "cmput-301-lab-5-4a5e7",
+    "storage_bucket": "cmput-301-lab-5-4a5e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641103120225:android:e34331294d006d261a2720",
+        "android_client_info": {
+          "package_name": "com.example.simpleparadox.listycity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641103120225-991800e0aqs6kkam9jqn6ip12kf4i17q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcwAUgPwVjJfBw0v18doNxo4mslPVq5Nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641103120225-991800e0aqs6kkam9jqn6ip12kf4i17q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
